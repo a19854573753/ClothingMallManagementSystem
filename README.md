@@ -4,7 +4,7 @@
 
 # 289.ClothingMallManagementSystem
 
-<p>V：bisebao888888(sql文件)</p>
+<p>V：bishebao888888(sql文件)</p>
 <p>抠: 206157502(sql文件)</p>
 
 <p><h1 align="center">289.衣服商城管理系统</h1></p>
